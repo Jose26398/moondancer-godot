@@ -1,4 +1,4 @@
-# Moondancer
+# 🌑 Moondancer
 
 Moondancer is a 2D platformer game developed with the Godot Engine. Guide your character through mystical forests, ancient temples, and magical landscapes, harnessing the powers of the elements to overcome obstacles and enemies.
 
